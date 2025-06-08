@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'; //obligatoire avec hashrouter
 import Worldicon from './Wordicon.jsx';
 import Dropdown from './Dropdown.jsx';
 
-import React, { useContext, useState } from 'react'; // Importation de useState pour le menu hamburger
+import { useContext, useState } from 'react'; // Importation de useState pour le menu hamburger
 import { LanguageContext } from './LanguageContext';
 
 function Header() {
