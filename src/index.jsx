@@ -3,8 +3,10 @@ import {
   Routes,
   Route,
 } from "react-router-dom";
-
-import Home from './pages/Home.jsx'
+import './styles/normalize.css'
+import GlobalStyle from './styles/createGlobalStyle.jsx'
+import ScrollToTop from "./styles/ScrollToTop";
+import HomePage from './pages/HomePage';
 
 import React from 'react';
 import ReactDOM from 'react-dom/client';
@@ -13,9 +15,11 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <HashRouter>
-        <Routes>
-          <Route path="/" element={<Home />}/>
-        </Routes>
+      <GlobalStyle/>
+      <ScrollToTop />
+      <Routes>
+        <Route path="/" element={<HomePage />}/>
+      </Routes>
     <React.StrictMode></React.StrictMode>
   </HashRouter>,
 );
