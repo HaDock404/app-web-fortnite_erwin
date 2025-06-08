@@ -1,4 +1,5 @@
-import React from 'react';
+import { LanguageContext } from '../components/LanguageContext';
+import { useContext } from 'react';
 import { useParams } from 'react-router-dom';
 import articleData1 from '../data/Article1.json';
 import articleData2 from '../data/Article2.json';
@@ -6,6 +7,7 @@ import "../styles/article.css";
 import Header from '../components/Headerbis';
 
 const ArticlePage = () => {
+  const { language } = useContext(LanguageContext);
   const { articleId } = useParams();
 
   const articles = {
@@ -15,27 +17,23 @@ const ArticlePage = () => {
 
   const data = articles[articleId];
 
-  const renderContentBlock = (block, index) => {
-    switch (block.type) {
-      case 'heading':
-        const HeadingTag = `h${block.level}`;
-        return <HeadingTag className="article_heading" key={index}>{block.text}</HeadingTag>;
-      case 'paragraph':
-        return <p className='article_p' key={index}>{block.text}</p>;
-      case 'image':
-        return (
-          <img
-            className='article_img'
-            key={index}
-            src={block.src}
-            alt={block.alt}
-            style={{ maxWidth: '100%' }}
-          />
-        );
-      default:
-        return null;
-    }
-  };
+  const renderContentBlock = (block, index, language) => {
+  switch (block.type) {
+    case 'heading':
+      const HeadingTag = `h${block.level}`;
+      return <HeadingTag className="article_heading" key={index}>{block.text[language]}</HeadingTag>;
+    case 'paragraph':
+      return <p className='article_p' key={index}>{block.text[language]}</p>;
+    case 'image':
+      return <img 
+              className='article_img' 
+              key={index} 
+              src={block.src} 
+              alt={block.alt} />;
+    default:
+      return null;
+  }
+};
 
   if (!data) {
     return <div>Article non trouvé</div>;
@@ -45,8 +43,8 @@ const ArticlePage = () => {
     <section className="article">
       <Header />
       <section className="article_page_section">
-        <h1 className='article_h1'>{data.title}</h1>
-        {data.content.map((block, index) => renderContentBlock(block, index))}
+        <h1 className='article_h1'>{data.title[language]}</h1>
+        {data.content.map((block, index) => renderContentBlock(block, index, language))}
       </section>
     </section>
   );
