@@ -30,19 +30,14 @@ function Header() {
     return (
         <header>
             <nav className='header_nav'>
-                <Link to="/" className='home_logo'>
-                    {home[language]}
+                <Link to="https://www.erwin-labs.com/" className='home_logo'>
+
+                        <img src="https://cdn.prod.website-files.com/62d56c0bde36c5e99acfb524/648a060a4e983940f8857fb1_Group%20289660.svg" alt="" />
+
+                        <div className='home_logo_x'>X</div>
+
+                        <img src="https://cms-assets.unrealengine.com/AVzjeqAbLRKi3W5jq0CAvz/cmb81xhry3tsj07mzscwq44nf" alt="" />
                 </Link>
-                <div className='hamburger' onClick={toggleMenu}>
-                    <div className='bar'></div>
-                    <div className='bar'></div>
-                    <div className='bar'></div>
-                </div>
-                <ul className={`ul_nav ${menuOpen ? 'open' : ''}`}>
-                    <Link to="/Blog" className='underline-on-hover'>Blog</Link>
-                    <Link to={linkPath} className='underline-on-hover'>{abouts[language]}</Link>
-                    <Link to="/Contact" className='underline-on-hover'>Contact</Link>
-                </ul>
                 <div className='lang-menu'>
                     <Worldicon />
                     <Dropdown />

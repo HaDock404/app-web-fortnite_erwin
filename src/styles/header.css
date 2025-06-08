@@ -13,12 +13,11 @@ header {
 }
 
 .home_logo {
-    width: 200px;
-    height: 40px;
-    border-radius: 20px;
-    background-color: rgb(255, 255, 255);
+    width: 450px;
+    height: 60px;
+    border-radius: 50px;
+    background-color: #121422;
     margin-left: 30px;
-    box-shadow: 2px 2px 4px 0px #878787;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -26,13 +25,20 @@ header {
     font-family: "Roboto", sans-serif;
     font-weight: bold;
     font-style: normal;
-    color: #777777;
+    color: #ffffff;
     text-decoration: none;
     transition: all 0.3s ease;
 }
 
+.home_logo_x {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 30px;
+    font-weight: 100;
+}
+
 .home_logo:hover {
-    box-shadow: 4px 4px 8px 0px #878787;
+    box-shadow: 4px 4px 8px 0px #0d0f21;
     transform: translateY(-2px);
 }
 
