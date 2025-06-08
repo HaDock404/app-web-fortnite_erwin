@@ -19,12 +19,12 @@ function Dropdown() {
     return (
         <div className="dropdown">
             <button onClick={toggleDropdown} className="dropdown-button">
-                {language.toUpperCase()}
+                {language}
             </button>
             {isOpen && (
                 <div className="dropdown-menu">
-                    <div className="dropdown-item" onClick={() => handleLanguageChange('en')}>En</div>
-                    <div className="dropdown-item" onClick={() => handleLanguageChange('fr')}>Fr</div>
+                    <div className="dropdown-item" onClick={() => handleLanguageChange('English')}>English</div>
+                    <div className="dropdown-item" onClick={() => handleLanguageChange('Français')}>Français</div>
                 </div>
             )}
         </div>

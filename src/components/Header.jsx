@@ -11,13 +11,13 @@ function Header() {
     const [menuOpen, setMenuOpen] = useState(false); // État pour contrôler l'affichage du menu mobile
 
     const home = {
-        en: 'HomePage',
-        fr: "Accueil"
+        English: 'HomePage',
+        Français: "Accueil"
     };
 
     const abouts = {
-        en: 'About',
-        fr: 'A propos'
+        English: 'About',
+        Français: 'A propos'
     };
 
     const uppercasedLanguage = language.toUpperCase();
