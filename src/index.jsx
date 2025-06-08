@@ -7,6 +7,7 @@ import './styles/normalize.css'
 import GlobalStyle from './styles/createGlobalStyle.jsx'
 import ScrollToTop from "./styles/ScrollToTop";
 import HomePage from './pages/HomePage';
+import ArticlePage from './pages/ArticlePage';
 
 import React from 'react';
 import ReactDOM from 'react-dom/client';
@@ -22,6 +23,7 @@ root.render(
       <ScrollToTop />
       <Routes>
         <Route path="/" element={<HomePage />}/>
+        <Route path="/articlepage" element={<ArticlePage />} />
       </Routes>
     <React.StrictMode></React.StrictMode>
     </LanguageProvider>

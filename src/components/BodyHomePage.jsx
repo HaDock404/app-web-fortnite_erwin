@@ -1,8 +1,9 @@
 import '../styles/homepage.css'
-import QuizCard from './QuizCard'
 import QuizCardTest from './QuizCardTest'
 import { LanguageContext } from './LanguageContext';
 import { useContext } from 'react';
+
+import articleData from '../data/Article1.json';
 
 function BodyHomePage() {
     const { language } = useContext(LanguageContext);
@@ -61,8 +62,8 @@ function BodyHomePage() {
                 <span className='body_homepage_article_header_title'>Dashboard</span>
             </article>
             <QuizCardTest
-                to="/"
-                data="fortnite_what.json"
+                to="articlepage"
+                data={articleData}
                 title={card1[language]}
                 img_path="https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/fortnite/2x1_NSwitch_Fortnite_20250502_image1600w.jpg"
             />
