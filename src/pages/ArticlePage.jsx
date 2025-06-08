@@ -2,17 +2,15 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import articleData1 from '../data/Article1.json';
 import articleData2 from '../data/Article2.json';
-import "../styles/quiz.css";
+import "../styles/article.css";
 import Header from '../components/Headerbis';
 
 const ArticlePage = () => {
   const { articleId } = useParams();
 
-  // 👇 Mapping entre les IDs et les JSONs
   const articles = {
     articlepage1: articleData1,
     articlepage2: articleData2,
-    // etc...
   };
 
   const data = articles[articleId];
@@ -21,12 +19,13 @@ const ArticlePage = () => {
     switch (block.type) {
       case 'heading':
         const HeadingTag = `h${block.level}`;
-        return <HeadingTag key={index}>{block.text}</HeadingTag>;
+        return <HeadingTag className="article_heading" key={index}>{block.text}</HeadingTag>;
       case 'paragraph':
-        return <p key={index}>{block.text}</p>;
+        return <p className='article_p' key={index}>{block.text}</p>;
       case 'image':
         return (
           <img
+            className='article_img'
             key={index}
             src={block.src}
             alt={block.alt}
@@ -46,7 +45,7 @@ const ArticlePage = () => {
     <section className="article">
       <Header />
       <section className="article_page_section">
-        <h1>{data.title}</h1>
+        <h1 className='article_h1'>{data.title}</h1>
         {data.content.map((block, index) => renderContentBlock(block, index))}
       </section>
     </section>

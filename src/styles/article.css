@@ -18,10 +18,32 @@
     margin-bottom: 25px;
     background-color: #121422;
     border-radius: 16px;
-    padding: 20px; /* Espace interne autour des éléments */
+    padding: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
     box-sizing: border-box; /* Inclure le padding dans la largeur et hauteur */
 
     overflow-y: auto; /* Permet uniquement le scroll vertical */
     overflow-x: hidden;
     position: relative;
+}
+
+.article_h1 {
+    color: white;
+    width: 100%;
+    text-align: center;
+    font-size: 60px;
+}
+
+.article_heading {
+    color: white;
+}
+
+.article_p {
+    color: rgb(214, 214, 214);
+    font-size: 18px;
+}
+
+.article_img {
+    border-radius: 10px;
 }

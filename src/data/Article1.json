@@ -1,23 +1,95 @@
 {
-  "title": "Mon super article",
+  "title": "Pourquoi jouer à Fortnite ?",
   "content": [
     {
-      "type": "heading",
-      "level": 2,
-      "text": "Introduction"
-    },
-    {
-      "type": "paragraph",
-      "text": "Voici le contenu de l'introduction..."
-    },
-    {
       "type": "image",
-      "src": "/images/mon-image.jpg",
+      "src": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/fortnite/2x1_NSwitch_Fortnite_20250502_image1600w.jpg",
       "alt": "Une superbe image"
     },
     {
+      "type": "heading",
+      "level": 2,
+      "text": "Pour se rassembler 💪🏼"
+    },
+    {
       "type": "paragraph",
-      "text": "Une autre section de texte..."
+      "text": "Chez Erwin Labs, nous sommes convaincus qu’une équipe soudée est la clé du succès. Dans un contexte où le télétravail et le travail hybride se généralisent, trouver des moyens innovants pour maintenir le lien entre collègues est devenu essentiel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour renforcer la cohésion entre collaborateurs, même à distance, nous avons choisi d'organiser des sessions de team building innovantes et interactives en jouant tous ensemble à Fortnite."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🎮 Mais pourquoi Fortnite ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fortnite n’est pas qu’un simple jeu vidéo. C’est un véritable terrain de jeu collectif qui rassemble toutes les générations autour d’une expérience fun et stimulante. Accessible sur tous les supports (PC, console, mobile), il s’installe facilement et permet à chacun, quel que soit son niveau, de participer activement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les avantages de Fortnite pour le team building"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "👉 Accessibilité universelle :"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pas besoin d’être un pro du gaming ! Fortnite propose des modes variés qui s’adaptent à tous les profils : exploration, construction, affrontements amicaux ou simples parties en équipe. Cela permet à chacun de trouver sa place et de participer pleinement."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "👉 Un esprit d’équipe renforcé :"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les parties se jouent en escouade, ce qui encourage la coopération, la communication et la solidarité entre collègues. Ensemble, on partage des objectifs, on élabore des stratégies et on célèbre les victoires, autant de moments qui favorisent la cohésion."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "👉 Une activité ludique et fédératrice :"
+    },
+    {
+      "type": "paragraph",
+      "text": "Grâce à ses graphismes colorés, son ambiance décontractée et ses nombreuses possibilités (courses, mini-jeux, constructions créatives), Fortnite offre bien plus qu’un simple affrontement. C’est un univers où la créativité et la bonne humeur sont au rendez-vous."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "👉 Une solution idéale pour les équipes en remote :"
+    },
+    {
+      "type": "paragraph",
+      "text": "Grâce à ses graphismes colorés, son ambiance décontractée et ses nombreuses possibilités (courses, mini-jeux, constructions créatives), Fortnite offre bien plus qu’un simple affrontement. C’est un univers où la créativité et la bonne humeur sont au rendez-vous."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pourquoi ça marche chez Erwin Labs ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nous avons constaté que nos sessions Fortnite favorisent les échanges informels et la cohésion d’équipe. Les collaborateurs apprennent à mieux se connaître, à communiquer différemment et à collaborer de manière ludique."
+    },
+    {
+      "type": "paragraph",
+      "text": "Résultat : plus d’interactions, plus de complicité et un climat de travail plus positif !"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "💡 Pourquoi ne pas tenter l’aventure vous aussi ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Intégrer Fortnite à vos activités de team building est un moyen simple, accessible et efficace de renforcer l’esprit d’équipe, surtout dans des contextes hybrides ou à distance. Chez Erwin Labs, nous en avons fait un véritable atout pour la cohésion et la motivation de nos équipes."
     }
   ]
 }
