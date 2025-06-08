@@ -1,6 +1,8 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
 import articleData from '../data/Article1.json';
+import "../styles/quiz.css"
+import Header from '../components/Headerbis';
 
 const ArticlePage = () => {
   const { articleId } = useParams();
@@ -33,10 +35,14 @@ const ArticlePage = () => {
   }
 
   return (
-    <div className="article-container">
-      <h1>{data.title}</h1>
-      {data.content.map((block, index) => renderContentBlock(block, index))}
-    </div>
+    <section className="article">
+        <Header />
+        <section className="article_page_section">
+            <h1>{data.title}</h1>
+            {data.content.map((block, index) => renderContentBlock(block, index))}
+        </section>
+      
+    </section>
   );
 };
 

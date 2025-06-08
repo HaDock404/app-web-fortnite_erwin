@@ -1,0 +1,27 @@
+.article {
+    width: 100vw;
+    height: calc(100vh - 25px);
+    background-color: #141827;
+    padding-top: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.article_page_section {
+    width: 1130px;
+    height: calc(100% - 50px);
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 25px;
+    background-color: #121422;
+    border-radius: 16px;
+    padding: 20px; /* Espace interne autour des éléments */
+    box-sizing: border-box; /* Inclure le padding dans la largeur et hauteur */
+
+    overflow-y: auto; /* Permet uniquement le scroll vertical */
+    overflow-x: hidden;
+    position: relative;
+}
