@@ -1,0 +1,23 @@
+{
+  "title": "Mon 2ème article",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Introduction"
+    },
+    {
+      "type": "paragraph",
+      "text": "Voici le contenu de l'introduction..."
+    },
+    {
+      "type": "image",
+      "src": "/images/mon-image.jpg",
+      "alt": "Une superbe image"
+    },
+    {
+      "type": "paragraph",
+      "text": "Une autre section de texte..."
+    }
+  ]
+}

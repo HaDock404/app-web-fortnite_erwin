@@ -23,7 +23,7 @@ root.render(
       <ScrollToTop />
       <Routes>
         <Route path="/" element={<HomePage />}/>
-        <Route path="/articlepage" element={<ArticlePage />} />
+        <Route path="/article/:articleId" element={<ArticlePage />} />
       </Routes>
     <React.StrictMode></React.StrictMode>
     </LanguageProvider>

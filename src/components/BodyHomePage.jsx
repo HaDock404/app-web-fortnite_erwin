@@ -3,7 +3,8 @@ import QuizCardTest from './QuizCardTest'
 import { LanguageContext } from './LanguageContext';
 import { useContext } from 'react';
 
-import articleData from '../data/Article1.json';
+import articleData1 from '../data/Article1.json';
+import articleData2 from '../data/Article2.json';
 
 function BodyHomePage() {
     const { language } = useContext(LanguageContext);
@@ -62,14 +63,14 @@ function BodyHomePage() {
                 <span className='body_homepage_article_header_title'>Dashboard</span>
             </article>
             <QuizCardTest
-                to="articlepage"
-                data={articleData}
+                to="/article/articlepage1"
+                data={articleData1}
                 title={card1[language]}
                 img_path="https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/fortnite/2x1_NSwitch_Fortnite_20250502_image1600w.jpg"
             />
             <QuizCardTest
-                to="/"
-                data=".json"
+                to="/article/articlepage2"
+                ata={articleData2}
                 title={card2[language]}
                 img_path="https://cdn2.unrealengine.com/ecosystem-w-fn-1920x1080-6d0b8c3e74ff.jpg"
             />

@@ -1,13 +1,21 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
-import articleData from '../data/Article1.json';
-import "../styles/quiz.css"
+import articleData1 from '../data/Article1.json';
+import articleData2 from '../data/Article2.json';
+import "../styles/quiz.css";
 import Header from '../components/Headerbis';
 
 const ArticlePage = () => {
   const { articleId } = useParams();
 
-  const data = articleData;
+  // 👇 Mapping entre les IDs et les JSONs
+  const articles = {
+    articlepage1: articleData1,
+    articlepage2: articleData2,
+    // etc...
+  };
+
+  const data = articles[articleId];
 
   const renderContentBlock = (block, index) => {
     switch (block.type) {
@@ -31,17 +39,16 @@ const ArticlePage = () => {
   };
 
   if (!data) {
-    return <div>Chargement...</div>;
+    return <div>Article non trouvé</div>;
   }
 
   return (
     <section className="article">
-        <Header />
-        <section className="article_page_section">
-            <h1>{data.title}</h1>
-            {data.content.map((block, index) => renderContentBlock(block, index))}
-        </section>
-      
+      <Header />
+      <section className="article_page_section">
+        <h1>{data.title}</h1>
+        {data.content.map((block, index) => renderContentBlock(block, index))}
+      </section>
     </section>
   );
 };
