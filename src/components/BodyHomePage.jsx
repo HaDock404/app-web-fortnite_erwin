@@ -1,173 +1,84 @@
 import '../styles/homepage.css'
 import QuizCard from './QuizCard'
+import QuizCardTest from './QuizCardTest'
 
 function BodyHomePage() {
     return (
         <section className="body_homepage_section">
             <article className='body_homepage_article_header'>
-                <span className='body_homepage_article_header_title'>Quiz Management</span>
+                <span className='body_homepage_article_header_title'>Dashboard</span>
             </article>
-            <QuizCard
-                to="/quiz"
-                data="quiz_01.json"
-                title="Reconocimiento Peces lvl 1"
-                text="Practice finding the names of the fish in order."
-                difficulty="easy"
-                color="#94C788"
-                order="ordered"
+            <QuizCardTest
+                to="/"
+                data="fortnite_what.json"
+                title="Pourquoi jouer à Fortnite ?"
+                img_path="https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/fortnite/2x1_NSwitch_Fortnite_20250502_image1600w.jpg"
             />
-            <QuizCard 
-                to="/random-quiz"
-                data="quiz_01.json"
-                title="Reconocimiento Peces lvl 1"
-                text="Practice finding the names of the fish in random order."
-                difficulty="medium"
-                color="#C7BD88"
-                order="disorderly"
+            <QuizCardTest
+                to="/"
+                data=".json"
+                title="Installation PC"
+                img_path="https://cdn2.unrealengine.com/ecosystem-w-fn-1920x1080-6d0b8c3e74ff.jpg"
             />
-            <QuizCard 
-                to="/quiz"
-                data="quiz_02.json"
-                title="Reconocimiento Peces lvl 2"
-                text="Practice finding the names of the fish in order."
-                difficulty="easy"
-                color="#94C788"
-                order="ordered"
+            <QuizCardTest
+                to="/"
+                data=".json"
+                title="Installation Mac"
+                img_path="https://i.blogs.es/e371bc/1984-1/650_1200.jpg"
             />
-            <QuizCard 
-                to="/random-quiz"
-                data="quiz_02.json"
-                title="Reconocimiento Peces lvl 2"
-                text="Practice finding the names of the fish in random order."
-                difficulty="medium"
-                color="#C7BD88"
-                order="disorderly"
+            <QuizCardTest
+                to="/"
+                data=".json"
+                title="Installation IOS - Android"
+                img_path="https://cdn2.unrealengine.com/mobile-header-1920x1080-1b6de348c20f.jpg"
             />
-            <QuizCard 
-                to="/random-quiz"
-                data="quiz_02bis.json"
-                title="Reconocimiento Peces lvl 2"
-                text="Practice finding the names of the fish from all the previous levels"
-                difficulty="hard"
-                color=""
-                order="disorderly"
+            <QuizCardTest
+                to="/"
+                data=".json"
+                title="Installation Consoles"
+                img_path="https://cdn2.unrealengine.com/16br--social-ns-performance-news-header-1920x1080-83f48856ac5f.jpg"
             />
-            <QuizCard
-                to="/quiz"
-                data="quiz_03.json"
-                title="Reconocimiento Peces lvl 3"
-                text="Practice finding the names of the fish in order."
-                difficulty="easy"
-                color="#94C788"
-                order="ordered"
+            <QuizCardTest
+                to="/"
+                data=".json"
+                title="Comment jouer à Fortnite"
+                img_path="https://files.bo3.gg/uploads/image/63583/image/webp-8a022eb09330f0a80397eb22e2800c54.webp"
             />
-            <QuizCard
-                to="/random-quiz"
-                data="quiz_03.json"
-                title="Reconocimiento Peces lvl 3"
-                text="Practice finding the names of the fish in random order."
-                difficulty="medium"
-                color="#C7BD88"
-                order="disorderly"
+            <QuizCardTest
+                to="/"
+                data=".json"
+                title="Activité - Battle Royale"
+                img_path="https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fpatch-v-1-6---fortnite-battle-royale%2FFortnite_BR_Key-Art_w-Logo_ENG-1920x1080-3e2ce1453476b725fa59e7aeb6ecb90e4b75a0df.jpg"
             />
-            <QuizCard 
-                to="/random-quiz"
-                data="quiz_03bis.json"
-                title="Reconocimiento Peces lvl 3"
-                text="Practice finding the names of the fish from all the previous levels."
-                difficulty="hard"
-                color=""
-                order="disorderly"
+            <QuizCardTest
+                to="/"
+                data=".json"
+                title="Activité - Courses"
+                img_path="https://cdn1.epicgames.com/offer/fn/EN_28RR_1P_EGS_2560x1440_2560x1440-a9d3c2f38d6fe1670f08bac6af5d6f32"
             />
-            <QuizCard 
-                to="/quiz"
-                data="quiz_04.json"
-                title="Reconocimiento Peces lvl 4"
-                text="Practice finding the names of the fish in order."
-                difficulty="easy"
-                color="#94C788"
-                order="ordered"
+            <QuizCardTest
+                to="/"
+                data=".json"
+                title="Activité - Musiques"
+                img_path="https://cdn2.unrealengine.com/fortnite-festival-jam-stage-1920x1080-528c57b51d5e.jpg"
             />
-            <QuizCard 
-                to="/random-quiz"
-                data="quiz_04.json"
-                title="Reconocimiento Peces lvl 4"
-                text="Practice finding the names of the fish in random order."
-                difficulty="medium"
-                color="#C7BD88"
-                order="disorderly"
+            <QuizCardTest
+                to="/"
+                data=".json"
+                title="Activité - Parkours"
+                img_path="https://cdn-0001.qstv.on.epicgames.com/PBfiywkwdfNKxxAaPm/image/landscape_comp.jpeg"
             />
-            <QuizCard 
-                to="/random-quiz"
-                data="quiz_04bis.json"
-                title="Reconocimiento Peces lvl 4"
-                text="Practice finding the names of the fish from all the previous levels"
-                difficulty="hard"
-                color=""
-                order="disorderly"
+            <QuizCardTest
+                to="/"
+                data=".json"
+                title="Activité - Cache-Cache"
+                img_path="https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fprop-hunt%2FEN_09CM_PropHunt_Social-1920x1080-c0bf31bc8b6a79e895bfad78249c5d6d6aae3488.jpg"
             />
-            <QuizCard 
-                to="/quiz"
-                data="quiz_05.json"
-                title="Reconocimiento Peces lvl 5"
-                text="Practice finding the names of the fish in order."
-                difficulty="easy"
-                color="#94C788"
-                order="ordered"
-            />
-            <QuizCard 
-                to="/random-quiz"
-                data="quiz_05.json"
-                title="Reconocimiento Peces lvl 5"
-                text="Practice finding the names of the fish in random order."
-                difficulty="medium"
-                color="#C7BD88"
-                order="disorderly"
-            />
-            <QuizCard 
-                to="/random-quiz"
-                data="quiz_05bis.json"
-                title="Reconocimiento Peces lvl 5"
-                text="Practice finding the names of the fish from all the previous levels"
-                difficulty="hard"
-                color=""
-                order="disorderly"
-            />
-            <QuizCard 
-                to="/quiz"
-                data="quiz_06.json"
-                title="Reconocimiento Peces lvl 6"
-                text="Practice finding the names of the fish in order."
-                difficulty="easy"
-                color="#94C788"
-                order="ordered"
-            />
-            <QuizCard 
-                to="/random-quiz"
-                data="quiz_06.json"
-                title="Reconocimiento Peces lvl 6"
-                text="Practice finding the names of the fish in random order."
-                difficulty="medium"
-                color="#C7BD88"
-                order="disorderly"
-            />
-            <QuizCard   
-                to="/random-quiz"
-                data="quiz_06bis.json"
-                title="Reconocimiento Peces lvl 6"
-                text="Practice finding the names of the fish from all the previous levels"
-                difficulty="hard" 
-                color=""
-                order="disorderly"
-            />
-            <QuizCard   
-                to="/ten-random-quiz"
-                data="quiz_06bis.json"
-                title="Reconocimiento Peces lvl 7"
-                text="Practice finding the names of 10 fishes from all the previous levels"
-                difficulty="hard" 
-                color=""
-                order="disorderly"
+            <QuizCardTest
+                to="/"
+                data=".json"
+                title="Activité - Mini Jeux"
+                img_path="https://cdn2.unrealengine.com/fortnite-fall-guys-islands-1920x1080-ed851a805568.jpg"
             />
         </section>
     )

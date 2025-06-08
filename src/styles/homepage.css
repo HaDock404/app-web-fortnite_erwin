@@ -115,3 +115,18 @@
     color: #0D0F1D;
     font-size: 11px;
 }
+
+.quiz_card_img {
+    width: 100%;
+    height: calc(100% - 60px);
+    border-radius: 0 0px 15px 15px;
+    overflow: hidden;   /* Coupe ce qui dépasse */
+    position: relative;
+}
+
+.quiz_card_img img {
+  width: 100%;            /* L'image occupe toute la largeur */
+  height: 100%;           /* L'image occupe toute la hauteur */
+  object-fit: cover;      /* Remplit la div tout en gardant les proportions */
+  display: block;         /* Évite les espaces blancs sous l'image */
+}
