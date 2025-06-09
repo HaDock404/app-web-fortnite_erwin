@@ -24,6 +24,8 @@ const ArticlePage = () => {
       return <HeadingTag className="article_heading" key={index}>{block.text[language]}</HeadingTag>;
     case 'paragraph':
       return <p className='article_p' key={index}>{block.text[language]}</p>;
+    case 'jump':
+      return <div className='article_div'></div>;
     case 'image':
       return <img 
               className='article_img' 

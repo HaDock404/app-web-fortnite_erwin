@@ -10,6 +10,9 @@
       "alt": ""
     },
     {
+      "type": "jump"
+    },
+    {
       "type": "heading",
       "level": 2,
       "text": {
@@ -32,6 +35,9 @@
       }
     },
     {
+      "type": "jump"
+    },
+    {
       "type": "heading",
       "level": 3,
       "text": {
@@ -45,6 +51,9 @@
         "English": "Fortnite isn't just a video game. It's a true community playground that brings together all generations around a fun and stimulating experience. Accessible on all platforms (PC, console, mobile), it's easy to install and allows everyone, regardless of their skill level, to actively participate.",
         "Français": "Fortnite n’est pas qu’un simple jeu vidéo. C’est un véritable terrain de jeu collectif qui rassemble toutes les générations autour d’une expérience fun et stimulante. Accessible sur tous les supports (PC, console, mobile), il s’installe facilement et permet à chacun, quel que soit son niveau, de participer activement."
       }
+    },
+    {
+      "type": "jump"
     },
     {
       "type": "heading",
@@ -115,6 +124,9 @@
       }
     },
     {
+      "type": "jump"
+    },
+    {
       "type": "heading",
       "level": 2,
       "text": {
@@ -135,6 +147,9 @@
         "English": "Result: more interactions, more complicity and a more positive work climate!",
         "Français": "Résultat : plus d’interactions, plus de complicité et un climat de travail plus positif !"
       }
+    },
+    {
+      "type": "jump"
     },
     {
       "type": "heading",

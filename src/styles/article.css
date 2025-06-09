@@ -58,3 +58,8 @@
   object-fit: cover;
   display: block;         
 }
+
+.article_div {
+    width: 100%;
+    height: 30px;
+}

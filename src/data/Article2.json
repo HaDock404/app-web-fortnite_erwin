@@ -10,11 +10,17 @@
       "alt": ""
     },
     {
+      "type": "jump"
+    },
+    {
       "type": "paragraph",
       "text": {
         "English": "Installing Fortnite on PC is primarily intended for regular video game players. If this is not the case, it is recommended to move to a mobile device installation to make it easier for your team to use Fortnite.",
         "Français": "L'installation de Fortnite sur PC est principalement destiné à un public de joueurs réguliers de jeux vidéos. Si ce n'est pas le cas il est conseillé de se diriger vers une installation sur appareil mobile pour faciliter l'utilisation de Fortnite par votre équipe."
       }
+    },
+    {
+      "type": "jump"
     },
     {
       "type": "heading",
@@ -132,6 +138,9 @@
       }
     },
     {
+      "type": "jump"
+    },
+    {
       "type": "heading",
       "level": 2,
       "text": {
@@ -199,6 +208,9 @@
       }
     },
     {
+      "type": "jump"
+    },
+    {
       "type": "heading",
       "level": 2,
       "text": {
@@ -261,6 +273,9 @@
         "English": "- Completion: Once the installation is complete, a 'Run Epic Games Launcher' or similar box will be checked by default. Leave it checked and click 'Finish' or 'Close'.",
         "Français": "- Achèvement : Une fois l'installation terminée, une case 'Exécuter Epic Games Launcher' ou similaire sera cochée par défaut. Laissez-la cochée et cliquez sur 'Terminer' ou 'Fermer'."
       }
+    },
+    {
+      "type": "jump"
     },
     {
       "type": "heading",
@@ -342,6 +357,9 @@
         "English": "For security reasons, Epic Games may email you a security code that you will need to enter into the launcher.",
         "Français": "Pour des raisons de sécurité, Epic Games peut vous envoyer un code de sécurité par e-mail que vous devrez entrer dans le lanceur."
       }
+    },
+    {
+      "type": "jump"
     },
     {
       "type": "heading",
@@ -511,6 +529,9 @@
         "English": "The launcher will download the files, then proceed to \"Verify\" the files, and finally to \"Install\" itself.",
         "Français": "Le lanceur téléchargera les fichiers, puis procédera à la \"Vérification\" des fichiers, et enfin à l'\"Installation\" proprement dite."
       }
+    },
+    {
+      "type": "jump"
     },
     {
       "type": "heading",
