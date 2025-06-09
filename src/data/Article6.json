@@ -1,0 +1,432 @@
+{
+  "title": {
+    "English": "How to play Fortnite ?",
+    "Français": "Comment jouer à Fortnite ?"
+  },
+  "content": [
+    {
+      "type": "image",
+      "src": "https://files.bo3.gg/uploads/image/63583/image/webp-8a022eb09330f0a80397eb22e2800c54.webp",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "Fortnite offers default control schemes that vary slightly depending on the platform you use. This guide helps you familiarize yourself with the basic controls on PC, mobile devices, PlayStation, Xbox, and Nintendo Switch.",
+        "Français": "Fortnite propose des schémas de commandes par défaut qui varient légèrement selon la plateforme utilisée. Ce guide vous aidera à vous familiariser avec les commandes de base sur PC, appareils mobiles, PlayStation, Xbox et Nintendo Switch."
+      }
+    },
+    {
+      "type": "jump"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": {
+        "English": "Default Controls on PC",
+        "Français": "Commandes par défaut sur PC"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Move Forward: W",
+        "Français": "• Avancer : W"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Move Backward: S",
+        "Français": "• Reculer : S"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Strafe Left: A",
+        "Français": "• Aller à gauche : A"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Strafe Right: D",
+        "Français": "• Aller à droite : D"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Jump: Space Bar",
+        "Français": "• Sauter : Barre d’espace"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Sprint: Left Shift",
+        "Français": "• Sprinter : Maj gauche"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Crouch: Left Ctrl",
+        "Français": "• S’accroupir : Ctrl gauche"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Fire: Left Mouse Button",
+        "Français": "• Tirer : Bouton gauche de la souris"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Aim: Right Mouse Button",
+        "Français": "• Viser : Bouton droit de la souris"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Reload: R",
+        "Français": "• Recharger : R"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Use Item: E",
+        "Français": "• Utiliser un objet : E"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Build Mode: F1 (Wall), F2 (Floor), F3 (Stairs), F4 (Roof)",
+        "Français": "• Mode construction : F1 (Mur), F2 (Sol), F3 (Escalier), F4 (Toit)"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Harvesting Tool: 1",
+        "Français": "• Outil de récolte : 1"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Weapons: 2-6",
+        "Français": "• Armes : 2 à 6"
+      }
+    },
+    {
+      "type": "jump"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": {
+        "English": "Default Controls on Mobile Devices",
+        "Français": "Commandes par défaut sur appareils mobiles"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Movement: Virtual joystick on the left side of the screen",
+        "Français": "• Déplacement : Joystick virtuel à gauche de l’écran"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Fire: Tap the fire button on the right side",
+        "Français": "• Tirer : Appuyez sur le bouton de tir à droite"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Aim: Drag anywhere on the right side to aim",
+        "Français": "• Viser : Glissez n’importe où à droite pour viser"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Jump: Tap the jump icon",
+        "Français": "• Sauter : Appuyez sur l’icône de saut"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Crouch: Tap the crouch icon",
+        "Français": "• S’accroupir : Appuyez sur l’icône de s’accroupir"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Build: Tap the build icon and select structure",
+        "Français": "• Construire : Appuyez sur l’icône de construction et sélectionnez la structure"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Weapons: Tap the weapon slots at the bottom",
+        "Français": "• Armes : Appuyez sur les emplacements d’armes en bas de l’écran"
+      }
+    },
+    {
+      "type": "jump"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": {
+        "English": "Default Controls on PlayStation",
+        "Français": "Commandes par défaut sur PlayStation"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Move: Left Stick",
+        "Français": "• Se déplacer : Stick gauche"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Look/Aim: Right Stick",
+        "Français": "• Regarder/Vise : Stick droit"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Fire: R2",
+        "Français": "• Tirer : R2"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Aim: L2",
+        "Français": "• Viser : L2"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Jump: X",
+        "Français": "• Sauter : X"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Crouch: R3",
+        "Français": "• S’accroupir : R3"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Build Mode: Circle",
+        "Français": "• Mode construction : Rond"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Switch Weapons: R1/L1",
+        "Français": "• Changer d’arme : R1/L1"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Reload/Interact: Square",
+        "Français": "• Recharger/Interagir : Carré"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Harvesting Tool: Triangle",
+        "Français": "• Outil de récolte : Triangle"
+      }
+    },
+    {
+      "type": "jump"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": {
+        "English": "Default Controls on Xbox",
+        "Français": "Commandes par défaut sur Xbox"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Move: Left Stick",
+        "Français": "• Se déplacer : Stick gauche"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Look/Aim: Right Stick",
+        "Français": "• Regarder/Vise : Stick droit"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Fire: RT",
+        "Français": "• Tirer : RT"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Aim: LT",
+        "Français": "• Viser : LT"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Jump: A",
+        "Français": "• Sauter : A"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Crouch: Right Stick (Press)",
+        "Français": "• S’accroupir : Stick droit (appui)"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Build Mode: B",
+        "Français": "• Mode construction : B"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Switch Weapons: RB/LB",
+        "Français": "• Changer d’arme : RB/LB"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Reload/Interact: X",
+        "Français": "• Recharger/Interagir : X"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Harvesting Tool: Y",
+        "Français": "• Outil de récolte : Y"
+      }
+    },
+    {
+      "type": "jump"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": {
+        "English": "Default Controls on Nintendo Switch",
+        "Français": "Commandes par défaut sur Nintendo Switch"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Move: Left Stick",
+        "Français": "• Se déplacer : Stick gauche"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Look/Aim: Right Stick",
+        "Français": "• Regarder/Vise : Stick droit"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Fire: ZR",
+        "Français": "• Tirer : ZR"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Aim: ZL",
+        "Français": "• Viser : ZL"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Jump: B",
+        "Français": "• Sauter : B"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Crouch: Right Stick (Press)",
+        "Français": "• S’accroupir : Stick droit (appui)"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Build Mode: A",
+        "Français": "• Mode construction : A"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Switch Weapons: R/L",
+        "Français": "• Changer d’arme : R/L"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Reload/Interact: Y",
+        "Français": "• Recharger/Interagir : Y"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "• Harvesting Tool: X",
+        "Français": "• Outil de récolte : X"
+      }
+    }
+  ]
+}

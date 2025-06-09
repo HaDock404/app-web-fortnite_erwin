@@ -8,6 +8,7 @@ import articleData2 from '../data/Article2.json';
 import articleData3 from '../data/Article3.json';
 import articleData4 from '../data/Article4.json';
 import articleData5 from '../data/Article5.json';
+import articleData6 from '../data/Article6.json';
 
 function BodyHomePage() {
     const { language } = useContext(LanguageContext);
@@ -96,8 +97,8 @@ function BodyHomePage() {
                 img_path="https://cdn2.unrealengine.com/16br--social-ns-performance-news-header-1920x1080-83f48856ac5f.jpg"
             />
             <QuizCardTest
-                to="/"
-                data=".json"
+                to="/article/articlepage6"
+                data={articleData6}
                 title={card6[language]}
                 img_path="https://files.bo3.gg/uploads/image/63583/image/webp-8a022eb09330f0a80397eb22e2800c54.webp"
             />
