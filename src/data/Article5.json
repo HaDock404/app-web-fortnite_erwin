@@ -1,0 +1,222 @@
+{
+  "title": {
+    "English": "Installation on Gamestation",
+    "Français": "Installation sur Consoles"
+  },
+  "content": [
+    {
+      "type": "image",
+      "src": "https://cdn2.unrealengine.com/16br--social-ns-performance-news-header-1920x1080-83f48856ac5f.jpg",
+      "alt": ""
+    },
+  {
+    "type": "paragraph",
+    "text": {
+      "English": "Fortnite is available for free on several popular gaming consoles. Installing it is simple, and online play does not require any additional paid subscriptions.",
+      "Français": "Fortnite est disponible gratuitement sur plusieurs consoles de jeu populaires. Son installation est simple et le jeu en ligne ne nécessite aucun abonnement payant supplémentaire."
+    }
+  },
+  {
+      "type": "jump"
+  },
+  {
+    "type": "heading",
+    "level": 2,
+    "text": {
+      "English": "List of Supported Consoles",
+      "Français": "Liste des consoles compatibles"
+    }
+  },
+  {
+    "type": "paragraph",
+    "text": {
+      "English": "- PlayStation 4",
+      "Français": "- PlayStation 4"
+    }
+  },
+  {
+    "type": "paragraph",
+    "text": {
+      "English": "- PlayStation 5",
+      "Français": "- PlayStation 5"
+    }
+  },
+  {
+    "type": "paragraph",
+    "text": {
+      "English": "- Xbox One",
+      "Français": "- Xbox One"
+    }
+  },
+  {
+    "type": "paragraph",
+    "text": {
+      "English": "- Xbox Series X/S",
+      "Français": "- Xbox Series X/S"
+    }
+  },
+  {
+    "type": "paragraph",
+    "text": {
+      "English": "- Nintendo Switch",
+      "Français": "- Nintendo Switch"
+    }
+  },
+  {
+      "type": "jump"
+  },
+  {
+    "type": "heading",
+    "level": 2,
+    "text": {
+      "English": "Installing Fortnite on PlayStation",
+      "Français": "Installation de Fortnite sur PlayStation"
+    }
+  },
+  {
+    "type": "paragraph",
+    "text": {
+      "English": "1. Open the PlayStation Store on your console.",
+      "Français": "1. Ouvrez le PlayStation Store sur votre console."
+    }
+  },
+  {
+    "type": "paragraph",
+    "text": {
+      "English": "2. Search for 'Fortnite'.",
+      "Français": "2. Recherchez 'Fortnite'."
+    }
+  },
+  {
+    "type": "paragraph",
+    "text": {
+      "English": "3. Select the Fortnite app and choose 'Download'.",
+      "Français": "3. Sélectionnez l’application Fortnite et choisissez 'Télécharger'."
+    }
+  },
+  {
+    "type": "paragraph",
+    "text": {
+      "English": "4. Once downloaded, launch the game from your home screen.",
+      "Français": "4. Une fois téléchargé, lancez le jeu depuis votre écran d’accueil."
+    }
+  },
+  {
+    "type": "paragraph",
+    "text": {
+      "English": "5. No PlayStation Plus subscription is required to play online.",
+      "Français": "5. Aucun abonnement PlayStation Plus n’est requis pour jouer en ligne."
+    }
+  },
+  {
+      "type": "jump"
+  },
+  {
+    "type": "heading",
+    "level": 2,
+    "text": {
+      "English": "Installing Fortnite on Xbox",
+      "Français": "Installation de Fortnite sur Xbox"
+    }
+  },
+  {
+    "type": "paragraph",
+    "text": {
+      "English": "1. Open the Microsoft Store on your Xbox console.",
+      "Français": "1. Ouvrez le Microsoft Store sur votre console Xbox."
+    }
+  },
+  {
+    "type": "paragraph",
+    "text": {
+      "English": "2. Search for 'Fortnite'.",
+      "Français": "2. Recherchez 'Fortnite'."
+    }
+  },
+  {
+    "type": "paragraph",
+    "text": {
+      "English": "3. Select Fortnite and choose 'Install'.",
+      "Français": "3. Sélectionnez Fortnite et choisissez 'Installer'."
+    }
+  },
+  {
+    "type": "paragraph",
+    "text": {
+      "English": "4. Once installed, launch the game from your library.",
+      "Français": "4. Une fois installé, lancez le jeu depuis votre bibliothèque."
+    }
+  },
+  {
+    "type": "paragraph",
+    "text": {
+      "English": "5. No Xbox Game Pass or Xbox Live Gold subscription is required to play online.",
+      "Français": "5. Aucun abonnement Xbox Game Pass ou Xbox Live Gold n’est requis pour jouer en ligne."
+    }
+  },
+  {
+      "type": "jump"
+  },
+  {
+    "type": "heading",
+    "level": 2,
+    "text": {
+      "English": "Installing Fortnite on Nintendo Switch",
+      "Français": "Installation de Fortnite sur Nintendo Switch"
+    }
+  },
+  {
+    "type": "paragraph",
+    "text": {
+      "English": "1. Open the Nintendo eShop on your console.",
+      "Français": "1. Ouvrez le Nintendo eShop sur votre console."
+    }
+  },
+  {
+    "type": "paragraph",
+    "text": {
+      "English": "2. Search for 'Fortnite'.",
+      "Français": "2. Recherchez 'Fortnite'."
+    }
+  },
+  {
+    "type": "paragraph",
+    "text": {
+      "English": "3. Select Fortnite and choose 'Download'.",
+      "Français": "3. Sélectionnez Fortnite et choisissez 'Télécharger'."
+    }
+  },
+  {
+    "type": "paragraph",
+    "text": {
+      "English": "4. Once downloaded, launch the game from the home screen.",
+      "Français": "4. Une fois téléchargé, lancez le jeu depuis l’écran d’accueil."
+    }
+  },
+  {
+    "type": "paragraph",
+    "text": {
+      "English": "5. No Nintendo Switch Online subscription is required to play online.",
+      "Français": "5. Aucun abonnement Nintendo Switch Online n’est requis pour jouer en ligne."
+    }
+  },
+  {
+      "type": "jump"
+  },
+  {
+    "type": "heading",
+    "level": 2,
+    "text": {
+      "English": "Enjoy Fortnite on Console!",
+      "Français": "Profitez de Fortnite sur console !"
+    }
+  },
+  {
+    "type": "paragraph",
+    "text": {
+      "English": "After installation, launch Fortnite and sign in with your Epic Games account to enjoy the full experience with regular updates and no additional fees for online play.",
+      "Français": "Après l’installation, lancez Fortnite et connectez-vous avec votre compte Epic Games pour profiter de l’expérience complète, avec des mises à jour régulières et sans frais supplémentaires pour jouer en ligne."
+    }
+  }
+  ]
+}
