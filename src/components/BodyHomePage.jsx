@@ -5,6 +5,7 @@ import { useContext } from 'react';
 
 import articleData1 from '../data/Article1.json';
 import articleData2 from '../data/Article2.json';
+import articleData3 from '../data/Article3.json';
 
 function BodyHomePage() {
     const { language } = useContext(LanguageContext);
@@ -70,13 +71,13 @@ function BodyHomePage() {
             />
             <QuizCardTest
                 to="/article/articlepage2"
-                ata={articleData2}
+                data={articleData2}
                 title={card2[language]}
                 img_path="https://cdn2.unrealengine.com/ecosystem-w-fn-1920x1080-6d0b8c3e74ff.jpg"
             />
             <QuizCardTest
-                to="/"
-                data=".json"
+                to="/article/articlepage3"
+                data={articleData3}
                 title={card3[language]}
                 img_path="https://i.blogs.es/e371bc/1984-1/650_1200.jpg"
             />

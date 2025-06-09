@@ -1,0 +1,444 @@
+{
+  "title": {
+    "English": "Installation on Mac",
+    "Français": "Installation sur mac"
+  },
+  "content": [
+    {
+      "type": "image",
+      "src": "https://i.blogs.es/e371bc/1984-1/650_1200.jpg",
+      "alt": ""
+    },
+    {
+      "type": "jump"
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "The native version of Fortnite on Mac is no longer updated by Epic Games (it's stuck at an older version), so GeForce NOW is the way to access the latest version of the game.",
+        "Français": "La version native de Fortnite sur Mac n'est plus mise à jour par Epic Games (elle est restée bloquée à une ancienne version), donc GeForce NOW est le moyen d'accéder à la version la plus récente du jeu."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "GeForce NOW is a cloud gaming service that streams gameplay from NVIDIA's servers directly to your Mac. This means the computing power needed to run the game is handled by NVIDIA's servers, not your Mac.",
+        "Français": "GeForce NOW est un service de cloud gaming qui diffuse le jeu depuis les serveurs de NVIDIA directement sur votre Mac. Cela signifie que la puissance de calcul nécessaire pour faire tourner le jeu est gérée par les serveurs de NVIDIA, et non par votre Mac."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "GeForce NOW is free for 1 hour per day.",
+        "Français": "GeForce NOW est gratuit 1h par jour."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "Here's a step-by-step tutorial on how to install and configure GeForce NOW to play Fortnite on your Mac.",
+        "Français": "Voici un tutoriel détaillé pour installer et configurer GeForce NOW afin de jouer à Fortnite sur votre Mac."
+      }
+    },
+    {
+      "type": "jump"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": {
+        "English": "Prerequisites before starting:",
+        "Français": "Prérequis avant de commencer :"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": {
+        "English": "1. Connexion Internet stable et rapide :",
+        "Français": "1. Connexion Internet stable et rapide :"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "This is the most important thing! A wired (Ethernet) connection is highly recommended for the best experience. If you're using Wi-Fi, make sure you're close to your router and that the connection is stable.",
+        "Français": "C'est le plus important ! Une connexion filaire (Ethernet) est fortement recommandée pour la meilleure expérience. Si vous utilisez le Wi-Fi, assurez-vous d'être proche de votre routeur et que la connexion est stable."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- Recommended minimum: 15 Mbps for 720p quality at 60 FPS, 25 Mbps for 1080p at 60 FPS. The more bandwidth you have, the better.",
+        "Français": "- Minimum recommandé : 15 Mbps pour une qualité 720p à 60 FPS, 25 Mbps pour 1080p à 60 FPS. Plus vous avez de débit, mieux c'est."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- Low latency (ping): Less than 40 ms for a good gaming experience.",
+        "Français": "- Latence (ping) faible : Moins de 40 ms pour une bonne expérience de jeu."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": {
+        "English": "2. Epic Games Account:",
+        "Français": "2. Compte Epic Games :"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "Go to Epic Games to create your account.",
+        "Français": "Rendez-vous sur Epic Games pour créer votre compte."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": {
+        "English": "3. NVIDIA GeForce NOW Account:",
+        "Français": "3. Compte NVIDIA GeForce NOW :"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "You will need to create one. There are free (with limitations) and paid (for a better experience) subscriptions.",
+        "Français": "Vous devrez en créer un. Il existe des abonnements gratuits (avec des limitations) et payants (pour une meilleure expérience)."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": {
+        "English": "4. Updated macOS:",
+        "Français": "4. macOS mis à jour :"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "Make sure your Mac is running a relatively recent version of macOS (at least macOS Sierra or newer).",
+        "Français": "Assurez-vous que votre Mac tourne sous une version de macOS relativement récente (au moins macOS Sierra ou plus récent)."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": {
+        "English": "5. Storage space:",
+        "Français": "5. Espace de stockage :"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "You don't need a lot of space for the game itself, as it's streamed, but you do need space for the GeForce NOW application (a few hundred MB).",
+        "Français": "Vous n'avez pas besoin de beaucoup d'espace pour le jeu lui-même, car il est streamé, mais il faut de l'espace pour l'application GeForce NOW (quelques centaines de Mo)."
+      }
+    },
+    {
+      "type": "jump"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": {
+        "English": "Step 1: Create an NVIDIA GeForce NOW account",
+        "Français": "Étape 1 : Créer un compte NVIDIA GeForce NOW"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "1. Open your web browser on your Mac.",
+        "Français": "1. Ouvrez votre navigateur web sur votre Mac."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "2. Go to the official NVIDIA GeForce NOW website: https://www.nvidia.com/fr-fr/geforce-now/",
+        "Français": "2. Rendez-vous sur le site officiel de NVIDIA GeForce NOW : https://www.nvidia.com/fr-fr/geforce-now/"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "3. Click on \"Join\" or \"Choose a subscription\".",
+        "Français": "3. Cliquez sur \"Rejoindre\" ou \"Choisir un abonnement\"."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "4. Choose your subscription plan:",
+        "Français": "4. Choisissez votre formule d'abonnement :"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- Free plan: Allows you to test the service, but sessions are limited in duration (usually 1 hour) and you may have to queue to access a server.",
+        "Français": "- Formule gratuite : Permet de tester le service, mais les sessions sont limitées en durée (généralement 1 heure) et vous devrez peut-être faire la queue pour accéder à un serveur."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- Paid plans (Priority or Ultimate): Offer longer sessions, priority access to servers (less or no waiting), better graphics performance (RTX enabled, higher FPS), and more powerful servers.",
+        "Français": "- Formules payantes (Prioritaire ou Ultimate) : Offrent des sessions plus longues, un accès prioritaire aux serveurs (moins ou pas d'attente), de meilleures performances graphiques (RTX activé, FPS plus élevés), et des serveurs plus puissants."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "5. Cliquez sur \"Rejoindre\" ou \"S'inscrire\" pour la formule choisie.",
+        "Français": "5. Cliquez sur \"Rejoindre\" ou \"S'inscrire\" pour la formule choisie."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "6. Create an NVIDIA account: If you don't have one, you'll be prompted to create one. Follow the instructions, providing your email address, a password, etc. If you already have one, log in.",
+        "Français": "6. Créez un compte NVIDIA : Si vous n'en avez pas, vous serez invité à en créer un. Suivez les instructions en fournissant votre adresse e-mail, un mot de passe, etc. Si vous en avez déjà un, connectez-vous."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "7. Confirm your account: You may receive a verification email from NVIDIA. Follow the link in the email to activate your account.",
+        "Français": "7. Confirmez votre compte : Vous recevrez peut-être un e-mail de vérification de NVIDIA. Suivez le lien dans l'e-mail pour activer votre compte."
+      }
+    },
+    {
+      "type": "jump"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": {
+        "English": "Step 2: Download and install the GeForce NOW application",
+        "Français": "Étape 2 : Télécharger et installer l'application GeForce NOW"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "1. On the GeForce NOW page (after logging in to your NVIDIA account), look for the \"Download the app\" or \"Apps\" section (you can also go directly to https://www.nvidia.com/en-us/geforce-now/download/).",
+        "Français": "1. Sur la page de GeForce NOW (après vous être connecté à votre compte NVIDIA), recherchez la section \"Télécharger l'application\" ou \"Applications\" (vous pouvez aussi aller directement sur https://www.nvidia.com/fr-fr/geforce-now/download/)."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "2. Click the \"Download\" button for macOS.",
+        "Français": "2. Cliquez sur le bouton \"Télécharger\" pour macOS."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "3. The GeForceNOW.dmg file will be downloaded to your \"Downloads\" folder.",
+        "Français": "3. Le fichier GeForceNOW.dmg sera téléchargé dans votre dossier \"Téléchargements\"."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "4. Once the download is complete, double-click the GeForceNOW.dmg file.",
+        "Français": "4. Une fois le téléchargement terminé, double-cliquez sur le fichier GeForceNOW.dmg."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "5. A disk mount window will open. You will see the GeForce NOW application icon and an \"Applications\" folder.",
+        "Français": "5. Une fenêtre de montage de disque va s'ouvrir. Vous verrez l'icône de l'application GeForce NOW et un dossier \"Applications\"."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "6. Drag the \"GeForce NOW\" icon to the \"Applications\" folder. This will install the application on your Mac.",
+        "Français": "6. Faites glisser l'icône \"GeForce NOW\" vers le dossier \"Applications\". Cela installera l'application sur votre Mac."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "7. Close the disk mount window and eject the GeForceNOW disk image by right-clicking the icon on your desktop or in the Finder sidebar and selecting \"Eject\".",
+        "Français": "7. Fermez la fenêtre de montage de disque et éjectez l'image disque GeForceNOW en faisant un clic droit sur l'icône sur votre bureau ou dans la barre latérale du Finder et en sélectionnant \"Éjecter\"."
+      }
+    },
+    {
+      "type": "jump"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": {
+        "English": "Step 3: Set up the GeForce NOW app and link your Epic Games account",
+        "Français": "Étape 3 : Configurer l'application GeForce NOW et lier votre compte Epic Games"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "1. Open the GeForce NOW application from your \"Applications\" folder or via Launchpad.",
+        "Français": "1. Ouvrez l'application GeForce NOW depuis votre dossier \"Applications\" ou via le Launchpad."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "2. On first launch, your Mac may ask you to confirm that you want to open the application because it was downloaded from the Internet. Click \"Open\" or \"Continue\".",
+        "Français": "2. Lors du premier lancement, votre Mac pourrait vous demander de confirmer que vous voulez ouvrir l'application car elle a été téléchargée d'Internet. Cliquez sur \"Ouvrir\" ou \"Continuer\"."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "3. Sign in to your NVIDIA GeForce NOW account in the app if you haven't already.",
+        "Français": "3. Connectez-vous à votre compte NVIDIA GeForce NOW dans l'application si ce n'est pas déjà fait."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "4. Link your Epic Games account: This is crucial for playing Fortnite.",
+        "Français": "4. Lier votre compte Epic Games : C'est crucial pour jouer à Fortnite."
+      }
+    },
+     {
+      "type": "paragraph",
+      "text": {
+        "English": "- In the GeForce NOW app's \"Settings\", scroll down to the \"Connected Accounts\" section.",
+        "Français": "- Dans les \"Paramètres\" de l'application GeForce NOW, faites défiler vers le bas jusqu'à la section \"Comptes connectés\"."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- Next to \"Epic Games\", click \"Connect\".",
+        "Français": "- À côté de \"Epic Games\", cliquez sur \"Connecter\"."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- This will open a page in your web browser, prompting you to log in to your Epic Games account. Enter your Epic Games credentials.",
+        "Français": "- Cela ouvrira une page dans votre navigateur web, vous invitant à vous connecter à votre compte Epic Games. Saisissez vos identifiants Epic Games."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- Once logged in, Epic Games will ask you to authorize NVIDIA GeForce NOW to access your account. Click \"Authorize\" or \"Link\".",
+        "Français": "- Une fois connecté, Epic Games vous demandera d'autoriser NVIDIA GeForce NOW à accéder à votre compte. Cliquez sur \"Autoriser\" ou \"Lier\"."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- Once authorization is successful, you will be redirected to the GeForce NOW app, and you will see that your Epic Games account is now linked.",
+        "Français": "- Une fois l'autorisation réussie, vous serez redirigé vers l'application GeForce NOW, et vous verrez que votre compte Epic Games est maintenant lié."
+      }
+    },
+    {
+      "type": "jump"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": {
+        "English": "Step 4: Launch Fortnite via GeForce NOW",
+        "Français": "Étape 4 : Lancer Fortnite via GeForce NOW"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "1. Return to the GeForce NOW home screen.",
+        "Français": "1. Retournez à l'écran d'accueil de GeForce NOW."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "2. Search Fortnite:",
+        "Français": "2. Recherchez Fortnite :"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- Type \"Fortnite\" in the search bar at the top.",
+        "Français": "- Tapez \"Fortnite\" dans la barre de recherche en haut."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- Or browse the \"Games\" or \"Popular\" section.",
+        "Français": "- Ou naviguez dans la section \"Jeux\" ou \"Populaire\"."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "3. Click on the Fortnite thumbnail.",
+        "Français": "3. Cliquez sur la vignette de Fortnite."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "4. Click the \"Play\" button.",
+        "Français": "4. Cliquez sur le bouton \"Jouer\"."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "5. Network and Queue Check:",
+        "Français": "5. Vérification réseau et file d'attente :"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- GeForce NOW will perform a brief check of your network connection.",
+        "Français": "- GeForce NOW effectuera une brève vérification de votre connexion réseau."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- If you're using the free plan or if the servers are very busy, you'll be placed in a queue. The wait time will be displayed. Paid subscribers usually have instant access or a very short queue.",
+        "Français": "- Si vous utilisez la formule gratuite ou si les serveurs sont très occupés, vous serez placé dans une file d'attente. La durée d'attente sera affichée. Les abonnés payants ont généralement un accès instantané ou une file d'attente très courte."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "6. Launch the game: Once it's your turn, the Fortnite game will launch on NVIDIA's servers and stream to your Mac.",
+        "Français": "6. Lancement du jeu : Une fois votre tour, le jeu Fortnite se lancera sur les serveurs de NVIDIA et sera diffusé sur votre Mac."
+      }
+    },
+    {
+      "type": "jump"
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "With GeForce NOW, you should be able to enjoy the latest version of Fortnite with excellent performance, even on a Mac that might not be able to run it natively. Happy gaming!",
+        "Français": "Avec GeForce NOW, vous devriez pouvoir profiter de la dernière version de Fortnite avec d'excellentes performances, même sur un Mac qui ne serait pas capable de le faire tourner nativement. Bon jeu !"
+      }
+    }
+
+  ]
+}

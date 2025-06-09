@@ -3,6 +3,7 @@ import { useContext } from 'react';
 import { useParams } from 'react-router-dom';
 import articleData1 from '../data/Article1.json';
 import articleData2 from '../data/Article2.json';
+import articleData3 from '../data/Article3.json';
 import "../styles/article.css";
 import Header from '../components/Headerbis';
 
@@ -13,6 +14,7 @@ const ArticlePage = () => {
   const articles = {
     articlepage1: articleData1,
     articlepage2: articleData2,
+    articlepage3: articleData3,
   };
 
   const data = articles[articleId];
