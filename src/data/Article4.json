@@ -1,0 +1,183 @@
+{
+  "title": {
+    "English": "Installation on IOS - Android",
+    "Français": "Installation sur IOS - Android"
+  },
+  "content": [
+    {
+      "type": "image",
+      "src": "https://cdn2.unrealengine.com/mobile-header-1920x1080-1b6de348c20f.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "Fortnite can now be installed natively on both Android and iOS by downloading the Epic Games Store app directly from the internet.",
+        "Français": "Fortnite peut désormais être installé nativement sur Android et iOS en téléchargeant l’application Epic Games Store directement depuis internet."
+      }
+    },
+    {
+      "type": "jump"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": {
+        "English": "Installing Fortnite on Android (Epic Games Store)",
+        "Français": "Installation de Fortnite sur Android (Epic Games Store)"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "1. On Android, open your browser and visit fortnite.com/download or epicgames.com/download",
+        "Français": "1. Sur Android, ouvrez votre navigateur et allez sur fortnite.com/download ou epicgames.com/download."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "2. Download the Epic Games Store APK.",
+        "Français": "2. Téléchargez l’APK de l’Epic Games Store."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "3. Enable app installation from unknown sources (Settings > Security or Apps & notifications).",
+        "Français": "3. Activez l’installation d’applications depuis des sources inconnues (Paramètres > Sécurité ou Applications)."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "4. Install the APK and launch the Epic Games Store app.",
+        "Français": "4. Installez l’APK et lancez l’application Epic Games Store."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "5. Find Fortnite in the app and tap Install to download and play.",
+        "Français": "5. Trouvez Fortnite dans l’application et appuyez sur Installer pour télécharger et jouer."
+      }
+    },
+    {
+      "type": "jump"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": {
+        "English": "Installing Fortnite on iOS (EU & U.S.)",
+        "Français": "Installation de Fortnite sur iOS (UE & États-Unis)"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "Thanks to new regulations, iOS users can now download the Epic Games Store directly from fortnite.com/download using Safari. This has been available in the EU since August 2024 and in the U.S. since May 2025.",
+        "Français": "Grâce aux nouvelles réglementations, les utilisateurs iOS peuvent désormais télécharger l’Epic Games Store directement depuis fortnite.com/download via Safari. Cela est disponible dans l’UE depuis août 2024 et aux États-Unis depuis mai 2025."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "Here’s how:",
+        "Français": "Voici la marche à suivre :"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "1. Open Safari and go to fortnite.com/download.",
+        "Français": "1. Ouvrez Safari et allez sur fortnite.com/download."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "2. Tap “Get on iPhone” to download the Epic Games Store.",
+        "Français": "2. Appuyez sur «Get on iPhone» pour télécharger l’Epic Games Store."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "3. You’ll be prompted to allow the installation in Settings—tap and allow.",
+        "Français": "3. Une fenêtre vous invitera à autoriser l’installation dans Réglages, appuyez et autorisez."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "4. Return to Safari and complete the installation.",
+        "Français": "4. Revenez dans Safari et terminez l’installation."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "5. Once installed, open the Epic Games Store app, select Fortnite, and tap Install.",
+        "Français": "5. Une fois installé, ouvrez l’application Epic Games Store, sélectionnez Fortnite, puis appuyez sur Installer."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "6. You need iOS 17.6 or higher (at least in the EU). U.S. rollout follows similar rules.",
+        "Français": "6. Vous avez besoin d’iOS 17.6 ou d’une version supérieure (au moins dans l’UE). Le déploiement aux U.S. suit des règles similaires."
+      }
+    },
+    {
+      "type": "jump"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": {
+        "English": "Requirements and Limitations",
+        "Français": "Pré-requis et limitations"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- iOS requires version 17.6 or higher (EU at least)",
+        "Français": "- iOS nécessite la version 17.6 ou ultérieure (au moins dans l’UE)"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- Only Safari is supported for installation on iOS",
+        "Français": "- Seul Safari permet l’installation sur iOS."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- Android supports global installation via the APK",
+        "Français": "- Android est pris en charge globalement via l’APK"
+      }
+    },
+    {
+      "type": "jump"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": {
+        "English": "Enjoy Fortnite!",
+        "Français": "Profitez de Fortnite !"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "After installation, launch Fortnite from your home screen, sign into your Epic Games account, and enjoy the full mobile experience with regular updates.",
+        "Français": "Après l’installation, lancez Fortnite depuis votre écran d’accueil, connectez-vous avec votre compte Epic Games et profitez pleinement de l’expérience mobile avec les mises à jour régulières."
+      }
+    }
+  ]
+}

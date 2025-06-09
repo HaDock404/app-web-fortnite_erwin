@@ -4,6 +4,7 @@ import { useParams } from 'react-router-dom';
 import articleData1 from '../data/Article1.json';
 import articleData2 from '../data/Article2.json';
 import articleData3 from '../data/Article3.json';
+import articleData4 from '../data/Article4.json';
 import "../styles/article.css";
 import Header from '../components/Headerbis';
 
@@ -15,6 +16,7 @@ const ArticlePage = () => {
     articlepage1: articleData1,
     articlepage2: articleData2,
     articlepage3: articleData3,
+    articlepage4: articleData4,
   };
 
   const data = articles[articleId];
