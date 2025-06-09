@@ -1,23 +1,620 @@
 {
-  "title": "Mon 2ème article",
+  "title": {
+    "English": "Installation on PC",
+    "Français": "Installation sur PC"
+  },
   "content": [
+    {
+      "type": "image",
+      "src": "https://cdn2.unrealengine.com/ecosystem-w-fn-1920x1080-6d0b8c3e74ff.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "Installing Fortnite on PC is primarily intended for regular video game players. If this is not the case, it is recommended to move to a mobile device installation to make it easier for your team to use Fortnite.",
+        "Français": "L'installation de Fortnite sur PC est principalement destiné à un public de joueurs réguliers de jeux vidéos. Si ce n'est pas le cas il est conseillé de se diriger vers une installation sur appareil mobile pour faciliter l'utilisation de Fortnite par votre équipe."
+      }
+    },
     {
       "type": "heading",
       "level": 2,
-      "text": "Introduction"
+      "text": {
+        "English": "Prerequisites:",
+        "Français": "Prérequis :"
+      }
     },
     {
       "type": "paragraph",
-      "text": "Voici le contenu de l'introduction..."
+      "text": {
+        "English": "Before you begin, make sure your PC meets the minimum requirements to run Fortnite. This will help prevent performance issues after installation.",
+        "Français": "Avant de commencer, assurez-vous que votre PC répond aux exigences minimales pour faire tourner Fortnite. Cela vous évitera des problèmes de performance après l'installation."
+      }
     },
     {
-      "type": "image",
-      "src": "/images/mon-image.jpg",
-      "alt": "Une superbe image"
+      "type": "heading",
+      "level": 3,
+      "text": {
+        "English": "Minimum System Requirements for Fortnite (as of June 2025):",
+        "Français": "Configuration Minimale Requise pour Fortnite (en juin 2025) :"
+      }
     },
     {
       "type": "paragraph",
-      "text": "Une autre section de texte..."
+      "text": {
+        "English": "- Operating system: Windows 10/11 64-bit",
+        "Français": "- Système d'exploitation : Windows 10/11 64-bit"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- Processor: Core i3-3225 3.3 GHz or equivalent",
+        "Français": "- Processeur : Core i3-3225 3.3 GHz ou équivalent"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- RAM memory: 8 GB",
+        "Français": "- Mémoire RAM : 8 Go"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- Graphics card: Intel HD 4000 on PC; Iris Pro 5200 on Mac",
+        "Français": "- Carte graphique : Intel HD 4000 sur PC ; Iris Pro 5200 sur Mac"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- DirectX: Version 11 or 12",
+        "Français": "- DirectX : Version 11 ou 12"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- Hard disk space: Approximately 26 GB (may vary with updates)",
+        "Français": "- Espace disque dur : Environ 26 Go (peut varier avec les mises à jour)"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": {
+        "English": "Recommended Configuration:",
+        "Français": "Configuration Recommandée :"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- Operating system: Windows 10/11 64-bit",
+        "Français": "- Système d'exploitation : Windows 10/11 64-bit"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- Processor: Core i5-7300U 3.5 GHz, AMD Ryzen 3 3300U, or equivalent",
+        "Français": "- Processeur : Core i5-7300U 3.5 GHz, AMD Ryzen 3 3300U, ou équivalent"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- RAM memory: 16 GB",
+        "Français": "- Mémoire RAM : 16 Go"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- Graphics card: Nvidia GeForce GTX 960, AMD Radeon R9 280, or equivalent with 2 GB of VRAM",
+        "Français": "- Carte graphique : Nvidia GeForce GTX 960, AMD Radeon R9 280, ou équivalent avec 2 Go de VRAM"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- DirectX: Version 11 or 12",
+        "Français": "- DirectX : Version 11 ou 12"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- Hard disk space: Approximately 26 GB (SSD recommended for best performance)",
+        "Français": "- Espace disque dur : Environ 26 Go (SSD recommandé pour de meilleures performances)"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": {
+        "English": "Step 1: Download the Epic Games Launcher",
+        "Français": "Étape 1 : Télécharger le lanceur Epic Games"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "Fortnite is not available on platforms like Steam. You must use the official Epic Games launcher.",
+        "Français": "Fortnite n'est pas disponible sur des plateformes comme Steam. Vous devez utiliser le lanceur officiel d'Epic Games."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": {
+        "English": "1. Open your web browser",
+        "Français": "1. Ouvrez votre navigateur web"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "Go to the official Epic Games website. You can type 'Epic Games' or 'Fortnite' into the Google search bar and click on the official link (often the first result).",
+        "Français": "Allez sur le site officiel d'Epic Games. Vous pouvez taper 'Epic Games' ou 'Fortnite' dans la barre de recherche de Google et cliquer sur le lien officiel (souvent le premier résultat)."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "The official address is usually: https://www.epicgames.com/",
+        "Français": "L'adresse officielle est généralement : https://www.epicgames.com/"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": {
+        "English": "2. Click 'Download Epic Games Launcher' or 'Get Epic Games'",
+        "Français": "2. Cliquez sur 'Télécharger le lanceur Epic Games' ou 'Obtenir Epic Games'"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "This button is usually clearly visible, often in the top right corner of the home page or on the Fortnite page.",
+        "Français": "Ce bouton est généralement bien visible, souvent en haut à droite de la page d'accueil ou sur la page de Fortnite."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": {
+        "English": "3. Save the installation file",
+        "Français": "3. Enregistrez le fichier d'installation"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "Your browser will ask you where to save the EpicInstaller-*.msi file. Choose an easy-to-find location, such as your 'Downloads' folder or your desktop.",
+        "Français": "Votre navigateur vous demandera où enregistrer le fichier EpicInstaller-*.msi. Choisissez un emplacement facile à retrouver, comme votre dossier 'Téléchargements' ou votre bureau."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": {
+        "English": "Step 2: Install the Epic Games Launcher",
+        "Français": "Étape 2 : Installer le lanceur Epic Games"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "Once the file is downloaded, you need to install the launcher on your PC.",
+        "Français": "Une fois le fichier téléchargé, vous devez installer le lanceur sur votre PC."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "1. Locate the EpicInstaller-*.msi file you just downloaded.",
+        "Français": "1. Localisez le fichier EpicInstaller-*.msi que vous venez de télécharger."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "2. Double-click the installation file. This will launch the installation wizard.",
+        "Français": "2. Double-cliquez sur le fichier d'installation. Cela lancera l'assistant d'installation."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "3. Follow the wizard's instructions:",
+        "Français": "3. Suivez les instructions de l'assistant :"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- License Agreement: Read the license agreement (if desired) and accept the terms to continue. Check the 'I accept the terms of the license agreement' box and click 'Install'.",
+        "Français": "- Contrat de licence : Lisez le contrat de licence (si vous le souhaitez) et acceptez les termes pour continuer. Cochez la case 'J'accepte les termes du contrat de licence' et cliquez sur 'Installer'."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- Installation Path: You can choose the installation folder for the Epic Games launcher. By default, it will install to C:\\Program Files (x86)\\Epic Games. For most users, leaving the default path is sufficient. Click 'Install'.",
+        "Français": "- Chemin d'installation : Vous pouvez choisir le dossier d'installation du lanceur Epic Games. Par défaut, il s'installera dans C:\\Program Files (x86)\\Epic Games. Pour la plupart des utilisateurs, laisser le chemin par défaut est suffisant. Cliquez sur 'Installer'."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- Installation process: The installation will take a few moments. A progress bar will indicate the progress. You may need to authorize the installation via Windows User Account Control (UAC).",
+        "Français": "- Processus d'installation : L'installation prendra quelques instants. Une barre de progression vous indiquera l'avancement. Vous devrez peut-être autoriser l'installation via le contrôle de compte utilisateur (UAC) de Windows."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- Completion: Once the installation is complete, a 'Run Epic Games Launcher' or similar box will be checked by default. Leave it checked and click 'Finish' or 'Close'.",
+        "Français": "- Achèvement : Une fois l'installation terminée, une case 'Exécuter Epic Games Launcher' ou similaire sera cochée par défaut. Laissez-la cochée et cliquez sur 'Terminer' ou 'Fermer'."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": {
+        "English": "Step 3: Create or log in to your Epic Games account",
+        "Français": "Étape 3 : Créer ou se connecter à votre compte Epic Games"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "The Epic Games Launcher will launch automatically. You will need to log in or create an account.",
+        "Français": "Le lanceur Epic Games va se lancer automatiquement. Vous devrez vous connecter ou créer un compte."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": {
+        "English": "1. Login / Account Creation:",
+        "Français": "1. Connexion / Création de compte :"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- If you already have an Epic Games account: Enter your email address and password, then click \"Sign in\".",
+        "Français": "- Si vous avez déjà un compte Epic Games : Saisissez votre adresse e-mail et votre mot de passe, puis cliquez sur \"Se connecter\"."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- If you don't have an Epic Games account: Click on \"Sign Up\" or \"Create an Account\". You will have several options:",
+        "Français": "- Si vous n'avez pas de compte Epic Games : Cliquez sur \"S'inscrire\" ou \"Créer un compte\". Vous aurez plusieurs options :"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "Register with email address: This is the most common method. You'll need to provide your first and last name, preferred display name (your in-game nickname), email address, and choose a password.",
+        "Français": "S'inscrire avec l'adresse e-mail : C'est la méthode la plus courante. Vous devrez fournir votre nom, prénom, nom d'affichage souhaité (votre pseudo dans les jeux), adresse e-mail, et choisir un mot de passe."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "Sign up with an existing account (Google, Facebook, PlayStation, Xbox, Nintendo, Steam, Apple): This option is very convenient if you already have an account on one of these platforms. Click the corresponding icon and follow the instructions to link your account. This can simplify future logins.",
+        "Français": "S'inscrire avec un compte existant (Google, Facebook, PlayStation, Xbox, Nintendo, Steam, Apple) : Cette option est très pratique si vous avez déjà un compte sur l'une de ces plateformes. Cliquez sur l'icône correspondante et suivez les instructions pour lier votre compte. Cela peut simplifier la connexion future."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": {
+        "English": "2. Email verification (if you create an account by email):",
+        "Français": "2. Vérification de l'e-mail (si vous créez un compte par e-mail) :"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "Epic Games will send a verification email to the address you provided. Open this email and click the verification link to activate your account.",
+        "Français": "Epic Games enverra un e-mail de vérification à l'adresse que vous avez fournie. Ouvrez cet e-mail et cliquez sur le lien de vérification pour activer votre compte."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": {
+        "English": "3. Launcher authorization (if you are logging in for the first time on a new device):",
+        "Français": "3. Autorisation du lanceur (si vous vous connectez pour la première fois sur un nouvel appareil) :"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "For security reasons, Epic Games may email you a security code that you will need to enter into the launcher.",
+        "Français": "Pour des raisons de sécurité, Epic Games peut vous envoyer un code de sécurité par e-mail que vous devrez entrer dans le lanceur."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": {
+        "English": "Step 4: Install Fortnite",
+        "Français": "Étape 4 : Installer Fortnite"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "Now that the launcher is installed and you're logged in, you can install Fortnite.",
+        "Français": "Maintenant que le lanceur est installé et que vous êtes connecté, vous pouvez installer Fortnite."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": {
+        "English": "1. Go to the Fortnite library or page:",
+        "Français": "1. Accédez à la bibliothèque ou à la page de Fortnite :"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- In the Epic Games launcher, you'll usually see a \"Home\" or \"Discover\" section. Fortnite is often featured prominently.",
+        "Français": "- Dans le lanceur Epic Games, vous verrez généralement une section \"Accueil\" ou \"Découvrir\". Fortnite est souvent mis en avant."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- You can also click on the \"Library\" tab in the left sidebar of the launcher. If you have just created your account, your library will be empty.",
+        "Français": "- Vous pouvez aussi cliquer sur l'onglet \"Bibliothèque\" dans la barre latérale gauche du lanceur. Si vous venez de créer votre compte, votre bibliothèque sera vide."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- Alternatively, go to the \"Shop\" section and search for \"Fortnite\"",
+        "Français": "- Alternativement, allez dans la section \"Boutique\" et recherchez \"Fortnite\""
+      }
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": {
+        "English": "2. Click on Fortnite",
+        "Français": "2. Cliquez sur Fortnite"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "This will take you to the game page in the launcher.",
+        "Français": "Cela vous mènera à la page du jeu dans le lanceur."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": {
+        "English": "3. Click the \"Get\" or \"Install\" button",
+        "Français": "3. Cliquez sur le bouton \"Obtenir\" ou \"Installer\""
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "Fortnite is a free game, so there will be no cost",
+        "Français": "Fortnite est un jeu gratuit, donc il n'y aura pas de coût"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": {
+        "English": "4. Choose the installation path:",
+        "Français": "4. Choisissez le chemin d'installation :"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "By default, Fortnite will install to C:\\Program Files\\Epic Games\\Fortnite. You can change this path if you wish, for example if you have a different hard drive with more space or an SSD dedicated to gaming. It is highly recommended to install Fortnite on an SSD if you have one, as this will significantly reduce loading times and improve the game's fluidity.",
+        "Français": "Par défaut, Fortnite s'installera dans C:\\Program Files\\Epic Games\\Fortnite. Vous pouvez changer ce chemin si vous le souhaitez, par exemple si vous avez un autre disque dur avec plus d'espace ou un SSD dédié aux jeux. Il est fortement recommandé d'installer Fortnite sur un SSD si vous en avez un, car cela réduira considérablement les temps de chargement et améliorera la fluidité du jeu."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "Click on \"Browse\" to choose a new folder.",
+        "Français": "Cliquez sur \"Parcourir\" pour choisir un nouveau dossier."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "Make sure the disk you choose has enough free space (at least 26 GB, but allow more for future updates).",
+        "Français": "Assurez-vous que le disque choisi dispose de suffisamment d'espace libre (au moins 26 Go, mais prévoyez plus pour les futures mises à jour)."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": {
+        "English": "5. Installation options:",
+        "Français": "5. Options d'installation :"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "The launcher may ask you if you want to create a desktop shortcut. Check this option if you want to launch the game easily.",
+        "Français": "Le lanceur peut vous demander si vous voulez créer un raccourci sur le bureau. Cochez cette option si vous voulez lancer le jeu facilement."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "It may also ask you if you want to create a shortcut in the Start menu.",
+        "Français": "Il peut aussi vous demander si vous voulez créer un raccourci dans le menu Démarrer."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": {
+        "English": "6. Start the installation:",
+        "Français": "6. Démarrez l'installation :"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "Click \"Install\". Fortnite will begin downloading.",
+        "Français": "Cliquez sur \"Installer\". Le téléchargement de Fortnite commencera."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": {
+        "English": "7. Monitor the download progress:",
+        "Français": "7. Surveillez la progression du téléchargement :"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "You can see the download progress in the \"Downloads\" section of the launcher (often a small down arrow in the bottom left).",
+        "Français": "Vous pouvez voir la progression du téléchargement dans la section \"Téléchargements\" du lanceur (souvent une petite flèche vers le bas en bas à gauche)."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "Download time will depend on your internet connection speed. Fortnite is a large game.",
+        "Français": "Le temps de téléchargement dépendra de votre vitesse de connexion internet. Fortnite est un jeu volumineux."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "The launcher will download the files, then proceed to \"Verify\" the files, and finally to \"Install\" itself.",
+        "Français": "Le lanceur téléchargera les fichiers, puis procédera à la \"Vérification\" des fichiers, et enfin à l'\"Installation\" proprement dite."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": {
+        "English": "Step 5: Launch Fortnite",
+        "Français": "Étape 5 : Lancer Fortnite"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "Once the download and installation is complete, you're ready to play!",
+        "Français": "Une fois le téléchargement et l'installation terminés, vous êtes prêt à jouer !"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": {
+        "English": "1. Launch Fortnite:",
+        "Français": "1. Lancez Fortnite :"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- From the Epic Games launcher, go to your \"Library\".",
+        "Français": "- Depuis le lanceur Epic Games, allez dans votre \"Bibliothèque\"."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- Click on the Fortnite icon. The \"Install\" button will now be replaced by a \"Launch\" button. Click on it.",
+        "Français": "- Cliquez sur l'icône de Fortnite. Le bouton \"Installer\" sera maintenant remplacé par un bouton \"Lancer\". Cliquez dessus.."
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "- If you have created a shortcut on the desktop, you can also double-click on it.",
+        "Français": "- Si vous avez créé un raccourci sur le bureau, vous pouvez aussi double-cliquer dessus."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": {
+        "English": "2. Initial Updates",
+        "Français": "2. Mises à jour initiales :"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "When you first launch Fortnite, you may download additional updates or compile shaders. This may take a few minutes. Let the process complete.",
+        "Français": "Lors du premier lancement, Fortnite peut télécharger des mises à jour supplémentaires ou compiler des shaders. Cela peut prendre quelques minutes. Laissez le processus se terminer."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": {
+        "English": "3. Connecting to the game:",
+        "Français": "3. Connexion au jeu :"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "The game will automatically connect to your Epic Games account.",
+        "Français": "Le jeu se connectera automatiquement à votre compte Epic Games."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": {
+        "English": "4. Accept the terms (first time):",
+        "Français": "4. Accepter les termes (première fois) :"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "When you first log into the game, you may be asked to accept the latest End User License Agreements (EULAs) or Privacy Policies.",
+        "Français": "Lors de votre toute première connexion au jeu, vous devrez peut-être accepter les derniers accords de licence utilisateur final (CLUF) ou les politiques de confidentialité."
+      }
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": {
+        "English": "5. Play!",
+        "Français": "5. Jouer !"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "Once in the Fortnite main menu, you can choose your game mode (Battle Royale, Save the World if you purchased it, or Creative Islands) and start playing.",
+        "Français": "Une fois dans le menu principal de Fortnite, vous pouvez choisir votre mode de jeu (Battle Royale, Sauver le Monde si vous l'avez acheté, ou les îles créatives) et commencer à jouer."
+      }
     }
   ]
 }
