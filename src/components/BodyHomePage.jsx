@@ -13,6 +13,7 @@ import articleData7 from '../data/Article7.json';
 import articleData8 from '../data/Article8.json';
 import articleData9 from '../data/Article9.json';
 import articleData10 from '../data/Article10.json';
+import articleData11 from '../data/Article11.json';
 
 function BodyHomePage() {
     const { language } = useContext(LanguageContext);
@@ -131,8 +132,8 @@ function BodyHomePage() {
                 img_path="https://cdn-0001.qstv.on.epicgames.com/PBfiywkwdfNKxxAaPm/image/landscape_comp.jpeg"
             />
             <QuizCardTest
-                to="/"
-                data=".json"
+                to="/article/articlepage11"
+                data={articleData11}
                 title={card11[language]}
                 img_path="https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fprop-hunt%2FEN_09CM_PropHunt_Social-1920x1080-c0bf31bc8b6a79e895bfad78249c5d6d6aae3488.jpg"
             />
