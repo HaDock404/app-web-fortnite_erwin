@@ -10,6 +10,7 @@ import articleData4 from '../data/Article4.json';
 import articleData5 from '../data/Article5.json';
 import articleData6 from '../data/Article6.json';
 import articleData7 from '../data/Article7.json';
+import articleData8 from '../data/Article8.json';
 
 function BodyHomePage() {
     const { language } = useContext(LanguageContext);
@@ -110,8 +111,8 @@ function BodyHomePage() {
                 img_path="https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fpatch-v-1-6---fortnite-battle-royale%2FFortnite_BR_Key-Art_w-Logo_ENG-1920x1080-3e2ce1453476b725fa59e7aeb6ecb90e4b75a0df.jpg"
             />
             <QuizCardTest
-                to="/"
-                data=".json"
+                to="/article/articlepage8"
+                data={articleData8}
                 title={card8[language]}
                 img_path="https://cdn1.epicgames.com/offer/fn/EN_28RR_1P_EGS_2560x1440_2560x1440-a9d3c2f38d6fe1670f08bac6af5d6f32"
             />
