@@ -12,6 +12,7 @@ import articleData6 from '../data/Article6.json';
 import articleData7 from '../data/Article7.json';
 import articleData8 from '../data/Article8.json';
 import articleData9 from '../data/Article9.json';
+import articleData10 from '../data/Article10.json';
 
 function BodyHomePage() {
     const { language } = useContext(LanguageContext);
@@ -124,8 +125,8 @@ function BodyHomePage() {
                 img_path="https://cdn2.unrealengine.com/fortnite-festival-jam-stage-1920x1080-528c57b51d5e.jpg"
             />
             <QuizCardTest
-                to="/"
-                data=".json"
+                to="/article/articlepage10"
+                data={articleData10}
                 title={card10[language]}
                 img_path="https://cdn-0001.qstv.on.epicgames.com/PBfiywkwdfNKxxAaPm/image/landscape_comp.jpeg"
             />
