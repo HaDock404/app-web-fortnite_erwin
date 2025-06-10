@@ -14,6 +14,7 @@ import articleData8 from '../data/Article8.json';
 import articleData9 from '../data/Article9.json';
 import articleData10 from '../data/Article10.json';
 import articleData11 from '../data/Article11.json';
+import articleData12 from '../data/Article12.json';
 
 function BodyHomePage() {
     const { language } = useContext(LanguageContext);
@@ -138,8 +139,8 @@ function BodyHomePage() {
                 img_path="https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fprop-hunt%2FEN_09CM_PropHunt_Social-1920x1080-c0bf31bc8b6a79e895bfad78249c5d6d6aae3488.jpg"
             />
             <QuizCardTest
-                to="/"
-                data=".json"
+                to="/article/articlepage12"
+                data={articleData12}
                 title={card12[language]}
                 img_path="https://cdn2.unrealengine.com/fortnite-fall-guys-islands-1920x1080-ed851a805568.jpg"
             />

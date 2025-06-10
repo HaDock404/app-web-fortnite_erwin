@@ -1,0 +1,80 @@
+{
+  "title": {
+    "English": "Activity - Hide and Seek",
+    "Français": "Activité - Cache cache"
+  },
+  "content": [
+    {
+      "type": "image",
+      "src": "https://cdn2.unrealengine.com/fortnite-fall-guys-islands-1920x1080-ed851a805568.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "",
+        "Français": "Le mode Créatif permet à des millions de joueurs à travers le monde de concevoir leurs propres îles, jeux et expériences. Cela signifie que l'éventail des activités disponibles est quasi infini, offrant des possibilités inattendues pour des sessions de team building mémorables."
+      }
+    },
+    {
+      "type": "jump"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": {
+        "English": "",
+        "Français": "Code d'îles"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "To participate, simply enter the code l'île in the search bar. Here is a non-exhaustive list to try:",
+        "Français": "Pour participer il suffit d'entrer le code l'île dans la barre de recherche, voici un liste non exhaustive à essayer : "
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "4960-6953-8825",
+        "Français": "4960-6953-8825"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "4464-0540-7292",
+        "Français": "4464-0540-7292"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "9047-5278-9781",
+        "Français": "9047-5278-9781"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "5283-2597-5280",
+        "Français": "5283-2597-5280"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "6831-5416-6480",
+        "Français": "6831-5416-6480"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": {
+        "English": "9126-8302-3912",
+        "Français": "9126-8302-3912"
+      }
+    }
+  ]
+}
