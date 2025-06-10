@@ -7,6 +7,7 @@ import articleData3 from '../data/Article3.json';
 import articleData4 from '../data/Article4.json';
 import articleData5 from '../data/Article5.json';
 import articleData6 from '../data/Article6.json';
+import articleData7 from '../data/Article7.json';
 import "../styles/article.css";
 import Header from '../components/Headerbis';
 
@@ -21,6 +22,7 @@ const ArticlePage = () => {
     articlepage4: articleData4,
     articlepage5: articleData5,
     articlepage6: articleData6,
+    articlepage7: articleData7,
   };
 
   const data = articles[articleId];
