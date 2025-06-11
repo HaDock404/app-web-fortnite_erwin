@@ -44,3 +44,28 @@
     cursor: pointer;
     color: white;
 }
+
+@media (max-width: 649px) {
+  .lang-menu {
+    width: auto;
+    padding: 0;
+  }
+
+  .dropdown-button {
+    display: block;
+    background: none;
+    padding: 10px;
+  }
+
+  .dropdown-menu {
+    position: absolute;
+    left: 0;
+    top: 100%;
+    background-color: #121422;
+    display: none; /* par défaut */
+  }
+
+  .lang-menu.open .dropdown-menu {
+    display: block; /* visible quand on ajoute la classe open */
+  }
+}
