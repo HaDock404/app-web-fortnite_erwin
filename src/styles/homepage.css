@@ -1,8 +1,9 @@
 .homepage {
     width: 100vw;
-    height: calc(100vh - 25px);
+    height: calc(100vh - 40px);
     background-color: #141827;
     padding-top: 25px;
+    padding-bottom: 15px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -149,8 +150,9 @@
 @media (max-width: 789px) {
     .body_homepage_section {
         width: calc(100% - 10px);
-        height: calc(100% - 50px);
+        height: calc(100% - 100px);
         margin-left: 5px;
+        margin-bottom: 75px;
         margin-right: 5px;
         padding: 20px;
         padding-top: 80px;
@@ -159,18 +161,20 @@
         grid-row-gap: 20px;
         grid-template-columns: 1fr;
         justify-items: center;
+        position: relative;
     }
 
     .body_homepage_article_header {
         width: 1090px;
         height: 40px;
         position: fixed;
+        top: 140px;
         color: white;
         font-weight: bold;
         font-size: 20px;
-        padding: 20px;
-        padding-left: 40px;
-        padding-top: 30px;
+        padding: 0px;
+        padding-left: 20px;
+        padding-top: 0px;
         z-index: 100;
     }
 }
