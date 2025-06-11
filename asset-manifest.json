@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/app-web-fortnite_erwin/static/css/main.e3467049.css",
+    "main.css": "/app-web-fortnite_erwin/static/css/main.088a548e.css",
     "main.js": "/app-web-fortnite_erwin/static/js/main.9450b0ef.js",
     "static/js/453.77ff7144.chunk.js": "/app-web-fortnite_erwin/static/js/453.77ff7144.chunk.js",
     "index.html": "/app-web-fortnite_erwin/index.html",
-    "main.e3467049.css.map": "/app-web-fortnite_erwin/static/css/main.e3467049.css.map",
+    "main.088a548e.css.map": "/app-web-fortnite_erwin/static/css/main.088a548e.css.map",
     "main.9450b0ef.js.map": "/app-web-fortnite_erwin/static/js/main.9450b0ef.js.map",
     "453.77ff7144.chunk.js.map": "/app-web-fortnite_erwin/static/js/453.77ff7144.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3467049.css",
+    "static/css/main.088a548e.css",
     "static/js/main.9450b0ef.js"
   ]
 }
