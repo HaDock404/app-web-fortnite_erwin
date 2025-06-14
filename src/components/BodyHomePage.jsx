@@ -76,73 +76,73 @@ function BodyHomePage() {
                 to="/article/articlepage1"
                 data={articleData1}
                 title={card1[language]}
-                img_path="https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/fortnite/2x1_NSwitch_Fortnite_20250502_image1600w.jpg"
+                img_path="https://storage.googleapis.com/fortnite-erwin/image1.jpg"
             />
             <QuizCardTest
                 to="/article/articlepage2"
                 data={articleData2}
                 title={card2[language]}
-                img_path="https://cdn2.unrealengine.com/ecosystem-w-fn-1920x1080-6d0b8c3e74ff.jpg"
+                img_path="https://storage.googleapis.com/fortnite-erwin/image2.jpg"
             />
             <QuizCardTest
                 to="/article/articlepage3"
                 data={articleData3}
                 title={card3[language]}
-                img_path="https://i.blogs.es/e371bc/1984-1/650_1200.jpg"
+                img_path="https://storage.googleapis.com/fortnite-erwin/image3.jpg"
             />
             <QuizCardTest
                 to="/article/articlepage4"
                 data={articleData4}
                 title={card4[language]}
-                img_path="https://cdn2.unrealengine.com/mobile-header-1920x1080-1b6de348c20f.jpg"
+                img_path="https://storage.googleapis.com/fortnite-erwin/image4.jpg"
             />
             <QuizCardTest
                 to="/article/articlepage5"
                 data={articleData5}
                 title={card5[language]}
-                img_path="https://cdn2.unrealengine.com/16br--social-ns-performance-news-header-1920x1080-83f48856ac5f.jpg"
+                img_path="https://storage.googleapis.com/fortnite-erwin/image5.jpg"
             />
             <QuizCardTest
                 to="/article/articlepage6"
                 data={articleData6}
                 title={card6[language]}
-                img_path="https://files.bo3.gg/uploads/image/63583/image/webp-8a022eb09330f0a80397eb22e2800c54.webp"
+                img_path="https://storage.googleapis.com/fortnite-erwin/image6.png"
             />
             <QuizCardTest
                 to="/article/articlepage7"
                 data={articleData7}
                 title={card7[language]}
-                img_path="https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fpatch-v-1-6---fortnite-battle-royale%2FFortnite_BR_Key-Art_w-Logo_ENG-1920x1080-3e2ce1453476b725fa59e7aeb6ecb90e4b75a0df.jpg"
+                img_path="https://storage.googleapis.com/fortnite-erwin/image7.jpg"
             />
             <QuizCardTest
                 to="/article/articlepage8"
                 data={articleData8}
                 title={card8[language]}
-                img_path="https://cdn1.epicgames.com/offer/fn/EN_28RR_1P_EGS_2560x1440_2560x1440-a9d3c2f38d6fe1670f08bac6af5d6f32"
+                img_path="https://storage.googleapis.com/fortnite-erwin/image8.jpeg"
             />
             <QuizCardTest
                 to="/article/articlepage9"
                 data={articleData9}
                 title={card9[language]}
-                img_path="https://cdn2.unrealengine.com/fortnite-festival-jam-stage-1920x1080-528c57b51d5e.jpg"
+                img_path="https://storage.googleapis.com/fortnite-erwin/image9.jpg"
             />
             <QuizCardTest
                 to="/article/articlepage10"
                 data={articleData10}
                 title={card10[language]}
-                img_path="https://cdn-0001.qstv.on.epicgames.com/PBfiywkwdfNKxxAaPm/image/landscape_comp.jpeg"
+                img_path="https://storage.googleapis.com/fortnite-erwin/image10.jpeg"
             />
             <QuizCardTest
                 to="/article/articlepage11"
                 data={articleData11}
                 title={card11[language]}
-                img_path="https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fprop-hunt%2FEN_09CM_PropHunt_Social-1920x1080-c0bf31bc8b6a79e895bfad78249c5d6d6aae3488.jpg"
+                img_path="https://storage.googleapis.com/fortnite-erwin/image11.jpg"
             />
             <QuizCardTest
                 to="/article/articlepage12"
                 data={articleData12}
                 title={card12[language]}
-                img_path="https://cdn2.unrealengine.com/fortnite-fall-guys-islands-1920x1080-ed851a805568.jpg"
+                img_path="https://storage.googleapis.com/fortnite-erwin/image12.jpg"
             />
         </section>
     )
